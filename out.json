@@ -1,0 +1,165 @@
+Getting necessary keywords from file....
+{
+    "concepts": [
+        {
+            "concept": "Google Scholar",
+            "occurrences": 35
+        },
+        {
+            "concept": "Scopus",
+            "occurrences": 43
+        },
+        {
+            "concept": "highly cited",
+            "occurrences": 16
+        },
+        {
+            "concept": "computer science",
+            "occurrences": 15
+        },
+        {
+            "concept": "B",
+            "occurrences": 29
+        },
+        {
+            "concept": "Web",
+            "occurrences": 23
+        },
+        {
+            "concept": "Ilan",
+            "occurrences": 22
+        },
+        {
+            "concept": "Bar",
+            "occurrences": 21
+        },
+        {
+            "concept": "M",
+            "occurrences": 19
+        },
+        {
+            "concept": "J Bar",
+            "occurrences": 9
+        },
+        {
+            "concept": "publications",
+            "occurrences": 54
+        },
+        {
+            "concept": "Journal",
+            "occurrences": 19
+        },
+        {
+            "concept": "rankings",
+            "occurrences": 88
+        },
+        {
+            "concept": "items",
+            "occurrences": 44
+        },
+        {
+            "concept": "citations",
+            "occurrences": 53
+        },
+        {
+            "concept": "Levene",
+            "occurrences": 10
+        },
+        {
+            "concept": "Citation Indexes",
+            "occurrences": 5
+        },
+        {
+            "concept": "measures",
+            "occurrences": 48
+        },
+        {
+            "concept": "Informetrics",
+            "occurrences": 11
+        },
+        {
+            "concept": "database",
+            "occurrences": 49
+        },
+        {
+            "concept": "retrieved",
+            "occurrences": 30
+        },
+        {
+            "concept": "Retrieved June",
+            "occurrences": 4
+        },
+        {
+            "concept": "number",
+            "occurrences": 25
+        },
+        {
+            "concept": "highly cited researchers",
+            "occurrences": 3
+        },
+        {
+            "concept": "between",
+            "occurrences": 18
+        },
+        {
+            "concept": "results",
+            "occurrences": 22
+        },
+        {
+            "concept": "ISI",
+            "occurrences": 15
+        },
+        {
+            "concept": "set",
+            "occurrences": 20
+        },
+        {
+            "concept": "three",
+            "occurrences": 14
+        },
+        {
+            "concept": "comparing",
+            "occurrences": 22
+        },
+        {
+            "concept": "Elsevier Ltd",
+            "occurrences": 2
+        },
+        {
+            "concept": "similarity between",
+            "occurrences": 7
+        },
+        {
+            "concept": "Information",
+            "occurrences": 4
+        },
+        {
+            "concept": "received",
+            "occurrences": 15
+        },
+        {
+            "concept": "journal papers",
+            "occurrences": 6
+        },
+        {
+            "concept": "specific",
+            "occurrences": 8
+        },
+        {
+            "concept": "rankings induced",
+            "occurrences": 5
+        },
+        {
+            "concept": "analysis",
+            "occurrences": 6
+        },
+        {
+            "concept": "August",
+            "occurrences": 2
+        },
+        {
+            "concept": "Discipline",
+            "occurrences": 4
+        }
+    ]
+}

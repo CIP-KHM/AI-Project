@@ -1,0 +1,153 @@
+
+4. Results
+
+   The four measures introduced in Section 2 were computed for each researcher and for each pair of databases. The
+results are displayed in Table 2. Note that values above 0.7 indicate high similarity; this threshold was set arbitrarily
+and is similar to the accepted threshold for "high correlation".
+   We see that there is complete agreement between Scopus and the Web of Science on the ranked lists of Avram
+Hershko and Joseph Kanner. In Kenner's case the list is only four items long, but in Hershko's case we are comparing
+lists of length 21. When looking at the number of citations on a per item basis, we see that the Web of Science
+recorded slightly more citations than Scopus, for example for the top ranked item, the Web of Science reported 1919
+citations, whereas Scopus reported 1909 citations. There was almost total agreement on Eli Turkel's list as well, the only
+difference was that WoS listed only three publications with more than 20 citations, and Scopus listed four. Checking
+WoS we observed that the fourth item on Scopus is indeed number four on the WoS list as well, but was not retrieved
+because it received only 18 citations.
+   There was much less agreement between Google Scholar and the other two databases. One of the most striking
+results is Oded Goldreich. Scopus listed 5 items and Google Scholar 39 items, with only two overlapping items
+(publications that were retrieved by both database) and these two items appeared in opposite order in the two lists
+
+
+
+Table 2
+Similarity values for the ranked lists from Web of Science, Scopus and Google Scholar
+
+Researcher        Web of Science ­ Scopus                      Web of Science ­ Google Scholar            Scopus ­ Google Scholar
+
+                  O          F           G         M           O          F          G          M         O        F         G      M
+
+Alon              0.545      0.778       0.725     0.584       0.276      0.750      0.457      0.468     0.267    0.750     0.466  0.703
+Aurbach           0.951      0.942       0.972     0.982       0.415      0.639      0.652      0.552     0.415    0.694     0.663  0.618
+Chet              0.889      0.922       0.961     0.884       0.833      0.839      0.872      0.842     0.737    0.796     0.889  0.816
+Ciechanover       0.927      0.981       0.969     0.989       0.775      0.921      0.928      0.916     0.762    0.926     0.941  0.922
+Cohen             0.925      0.942       0.964     0.963       0.821      0.840      0.873      0.922     0.762    0.855     0.874  0.920
+Dekel             0.667      0.938       0.767     0.828       0.323      0.760      0.468      0.574     0.231    1         0.412  0.647
+Duchovni          0.394      0.728       0.535     0.377       0.528      0.825      0.736      0.589     0.357    0.700     0.480  0.304
+Geiger            0.978      0.973       0.987     0.980       0.870      0.918      0.926      0.919     0.891    0.907     0.920  0.912
+Goldreich         0.444      1.000       0.792     0.911       0.119      0.833      0.222      0.157     0.073    0         0.146  0.112
+Harel             0.750      0.500       0.600     0.353       0.130      1          0.237      0.134     0.174    0.750     0.322  0.280
+Hershko           1          1           1         1           0.952      0.880      0.941      0.949     0.952    0.880     0.932 0.946
+Jortner           0.893      0.878       0.891     0.875       0.448      0.643      0.686      0.701     0.444    0.528     0.639  0.604
+Kanner            1          1           1         1           0.750      1          0.867      0.928     0.750    1         0.867  0.928
+Kerem             0.944      0.972       0.895     0.791       0.778      0.918      0.787      0.774     0.824    0.939     0.855  0.897
+Mechoulam         0.853      0.962       0.961     0.966       0.781      0.821      0.892      0.904     0.765    0.799     0.898  0.889
+Oren              0.985      0.961       0.961     0.913       0.866      0.904      0.911      0.885     0.881    0.909     0.925  0.953
+Piran             0.585      0.910       0.710     0.716       0.457      0.827      0.639      0.691     0.400    0.797     0.616  0.792
+Procaccia         0.923      0.944       0.964     0.978       0.786      0.800      0.887      0.853     0.733    0.800     0.881  0.853
+Shamai            0.857      0.750       0.884     0.863       0.545      0.639      0.754      0.790     0.636    0.878     0.851  0.921
+Sharir            0.571      0.500       0.800     0.519       0.091      1          0.216      0.447     0.125    0.500     0.271  0.304
+Sklan             0.500      0.875       0.787     0.871       0.250      0.500      0.507      0.663     0.308    0.750     0.565  0.700
+Turkel            0.750      1           1         1           0.400      1          0.533      0.331     0.600    1         0.600  0.377
+
+Average           0.788      0.884       0.869     0.834       0.554      0.830      0.681      0.681     0.549    0.780     0.682  0.700
+S.D.              0.198      0.147       0.136     0.200       0.278      0.134      0.242      0.249     0.276    0.220     0.247  0.262
+
+32                                             J. Bar-Ilan et al. / Journal of Informetrics 1 (2007) 26­34
+
+Table 3
+Results of the statistical tests for the measures O, G and M  a
+
+
+                                                                           O                               G                                 M
+
+                                      Mean                                    0.788                           0.869                           0.834
+WoS-Scopus
+                                      S.D.                                    0.198                          0.136                            0.200
+
+                                      Mean                                    0.554                           0.681                           0.681
+WoS-GS
+                                      S.D.                                    0.278                          0.242                            0.249
+
+                                      Mean                                    0.549                           0.682                           0.700
+Scopus-GS
+                                      S.D.                                    0.296                          0.247                            0.262
+
+F                                                                           38.266***                        21.674***                        8.433**
+WoS-Scopus vs. WoS-GS                                                      ***                             ***                               **
+WoS-Scopus vs. Scopus-GS                                                   ***                             ***                                *
+WoS-GS vs. Scopus-GS                                                          ­                               ­                               ­
+
+(*), (**) and (***) indicate the strength of the significance, (­) indicates that no differences were found. Levels of significance: p < .05,
+                                                                                                                                    *        **p < .01,
+***p < .001.
+  a WoS-Scopus vs. WoS-GS checks whether the significant F-value was caused by differences in the WoS-Scopus vs. WoS-GS measures.
+
+
+
+
+(that is why F = 0). The G and M values are very low because of the extremely small overlap and the disagreement
+in the ordering of the overlapping elements. Note that the items listed by Google Scholar were checked against Oded
+Goldreich's list of publication and/or the publisher's site, non-existing publications were removed and publications
+listed more than once were collated. We observe a similar pattern when comparing David Harel's list in WoS versus
+Google Scholar. In this case there were three overlapping elements (all the elements listed by WoS), but in his case
+there was total agreement on the relative ranking, i.e. the items that were ranked 1, 2 and 3 respectively on WoS, were
+ranked 3, 5 and 6 on Google Scholar. Thus in this case F = 1, but the G and M values are low, because Google Scholar
+ranked 23 publications versus 3 by WoS and there was no agreement on the top ranked items of Google Scholar (these
+were not listed by WoS). Note that the most cited item according to Google Scholar is a book and WoS does not index
+books.
+    From looking at the averages in Table 2, it seems that the WoS and Scopus rankings are rather similar, whereas
+the Google Scholar ranking is considerably different. However, the standard deviations are considerable. Thus we
+decided to run some statistical tests. We ran the repeated measure ANOVA test for each query, for each database
+and for each measure, to compare the rankings of the databases for the 22 researchers. This test measures the
+variability of the database rankings (i.e. whether the similarity between the rankings of database A and B is sig-
+nificantly different from the similarity between the rankings of database A and C); see for example (Grimm &
+Yarnold, 2005) If the results of this F-test (ANOVA) is significant then it means that the differences between the
+three pairs WoS-Scopus, WoS-GS (GS stands for Google Scholar) and Scopus-GS cannot be explained by random
+errors, but there are consistent differences. If the F-value is significant, one can run additional tests; in our case the
+appropriate tests were Bonferroni-adjusted post-hoc tests to determine the differences between which two pairs are
+responsible for the significance of the F-test. There are cases where the differences between more than two pairs
+are significant. The tests were run on all four measures, however the footrule (F) did not fulfill the test assumptions
+(sphericity), and thus here we report only the significance of the statistical tests for three measures, O, G and M (see
+Table 3).
+    The results indicate that the significant differences for the set of researchers tested for this study were caused by the
+considerable differences in the rankings of Google Scholar as compared to either the Web of Science or Scopus.
+    Google Scholar (and to some extent Scopus as well) indexes proceedings and books as well, while WoS indexes
+mainly journal papers. For three researchers: Alon, Goldreich and Harel the number of items indexed by Google
+Scholar was considerably higher than the number of items indexed by the other two databases. For these researchers
+we compared the rankings induced by the three databases, when considering journal papers only. The results appear
+in Tables 4 and 5.
+    As can be seen in Table 5, the differences remain considerable even when only journal publications are taken into
+account.
+
+                                             J. Bar-Ilan et al. / Journal of Informetrics 1 (2007) 26­34                                     33
+
+Table 4
+Number of journal papers indexed by each database
+
+Scientist            Affiliation         Discipline                    WOS                         Scopus                 Google Scholar
+
+                                                                       Items     Total citations   Items Total citations  Items  Total citations
+
+Alon, Noga           Tel Aviv U.         Mathematics, computer         8         220               8     243              20       210
+                                         science
+Goldreich, Oded      Bar Ilan U.         Computer science              8         302               4     220               7       776
+Harel, David         Weizmann Inst.      Computer science              3         112               4     264               9     1613
+Sharir, Micha        Technion            Engineering, computer         4         114               7     175              11       457
+                                         science
+
+
+
+Table 5
+Similarity values for the ranked lists from Web of Science, Scopus and Google Scholar when considering journal papers only
+
+Researcher       Web of Science ­ Scopus                      Web of Science ­ Google Scholar               Scopus ­ Google Scholar
+
+                 O          F           G         M           O           F          G          M           O          F       G          M
+
+Alon             0.600      0.778       0.778     0.615       0.400       0.750      0.615      0.545       0.400      0.750   0.641      0.803
+Goldreich        0.571      1.000       0.905     0.965       0.400       0.750      0.556      0.370       0.222      0.000   0.400      0.287
+Harel            0.750      0.500       0.600     0.353       0.333       1.000      0.533      0.358       0.444      0.750   0.760      0.869
+Sharir           0.571      0.500       0.800     0.519       0.154       1.000      0.377      0.601       0.200      0.500   0.422      0.362
+
+
+
+
