@@ -2,164 +2,164 @@ Getting necessary keywords from file....
 {
     "concepts": [
         {
-            "concept": "Google Scholar",
-            "occurrences": 35
-        },
-        {
-            "concept": "Scopus",
-            "occurrences": 43
-        },
-        {
-            "concept": "highly cited",
-            "occurrences": 16
-        },
-        {
-            "concept": "computer science",
-            "occurrences": 15
-        },
-        {
-            "concept": "B",
-            "occurrences": 29
-        },
-        {
-            "concept": "Web",
-            "occurrences": 23
-        },
-        {
-            "concept": "Ilan",
-            "occurrences": 22
-        },
-        {
-            "concept": "Bar",
-            "occurrences": 21
-        },
-        {
-            "concept": "M",
-            "occurrences": 19
-        },
-        {
-            "concept": "J Bar",
-            "occurrences": 9
-        },
-        {
-            "concept": "publications",
-            "occurrences": 54
-        },
-        {
             "concept": "Journal",
-            "occurrences": 19
-        },
-        {
-            "concept": "rankings",
-            "occurrences": 88
-        },
-        {
-            "concept": "items",
-            "occurrences": 44
-        },
-        {
-            "concept": "citations",
-            "occurrences": 53
-        },
-        {
-            "concept": "Levene",
-            "occurrences": 10
-        },
-        {
-            "concept": "Citation Indexes",
-            "occurrences": 5
-        },
-        {
-            "concept": "measures",
-            "occurrences": 48
+            "occurrences": 463
         },
         {
             "concept": "Informetrics",
-            "occurrences": 11
+            "occurrences": 255
         },
         {
-            "concept": "database",
-            "occurrences": 49
+            "concept": "B",
+            "occurrences": 260
         },
         {
-            "concept": "retrieved",
-            "occurrences": 30
+            "concept": "R",
+            "occurrences": 292
         },
         {
-            "concept": "Retrieved June",
-            "occurrences": 4
+            "concept": "Science",
+            "occurrences": 299
         },
         {
-            "concept": "number",
-            "occurrences": 25
+            "concept": "j",
+            "occurrences": 371
         },
         {
-            "concept": "highly cited researchers",
-            "occurrences": 3
+            "concept": "L",
+            "occurrences": 139
         },
         {
-            "concept": "between",
-            "occurrences": 18
+            "concept": "citation",
+            "occurrences": 752
         },
         {
-            "concept": "results",
-            "occurrences": 22
+            "concept": "Egghe",
+            "occurrences": 108
         },
         {
-            "concept": "ISI",
-            "occurrences": 15
+            "concept": "Glanzel",
+            "occurrences": 81
         },
         {
-            "concept": "set",
-            "occurrences": 20
+            "concept": "W",
+            "occurrences": 78
         },
         {
-            "concept": "three",
-            "occurrences": 14
+            "concept": "Rousseau",
+            "occurrences": 75
         },
         {
-            "concept": "comparing",
-            "occurrences": 22
+            "concept": "information",
+            "occurrences": 147
         },
         {
             "concept": "Elsevier Ltd",
-            "occurrences": 2
+            "occurrences": 34
         },
         {
-            "concept": "similarity between",
-            "occurrences": 7
+            "concept": "Scientometrics",
+            "occurrences": 73
         },
         {
-            "concept": "Information",
-            "occurrences": 4
+            "concept": "self",
+            "occurrences": 186
         },
         {
-            "concept": "received",
-            "occurrences": 15
+            "concept": "distribution",
+            "occurrences": 220
         },
         {
-            "concept": "journal papers",
-            "occurrences": 6
+            "concept": "k",
+            "occurrences": 194
         },
         {
-            "concept": "specific",
-            "occurrences": 8
+            "concept": "values",
+            "occurrences": 158
         },
         {
-            "concept": "rankings induced",
-            "occurrences": 5
+            "concept": "results",
+            "occurrences": 208
+        },
+        {
+            "concept": "papers",
+            "occurrences": 240
+        },
+        {
+            "concept": "term",
+            "occurrences": 231
+        },
+        {
+            "concept": "scientific",
+            "occurrences": 137
         },
         {
             "concept": "analysis",
-            "occurrences": 6
+            "occurrences": 110
         },
         {
-            "concept": "August",
-            "occurrences": 2
+            "concept": "impact",
+            "occurrences": 117
         },
         {
-            "concept": "Discipline",
-            "occurrences": 4
+            "concept": "published",
+            "occurrences": 137
+        },
+        {
+            "concept": "rank",
+            "occurrences": 258
+        },
+        {
+            "concept": "V",
+            "occurrences": 50
+        },
+        {
+            "concept": "year",
+            "occurrences": 120
+        },
+        {
+            "concept": "based",
+            "occurrences": 120
+        },
+        {
+            "concept": "Schubert",
+            "occurrences": 28
+        },
+        {
+            "concept": "O",
+            "occurrences": 25
+        },
+        {
+            "concept": "process",
+            "occurrences": 118
+        },
+        {
+            "concept": "received",
+            "occurrences": 121
+        },
+        {
+            "concept": "U",
+            "occurrences": 24
+        },
+        {
+            "concept": "Introduction",
+            "occurrences": 26
+        },
+        {
+            "concept": "Pareto",
+            "occurrences": 26
+        },
+        {
+            "concept": "law",
+            "occurrences": 89
+        },
+        {
+            "concept": "score",
+            "occurrences": 116
+        },
+        {
+            "concept": "present",
+            "occurrences": 58
         }
     ]
 }
